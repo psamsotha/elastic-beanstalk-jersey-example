@@ -1,0 +1,1 @@
+web: java -jar target/beanstalk-practice-1.0-SNAPSHOT.jar -Xms256m
